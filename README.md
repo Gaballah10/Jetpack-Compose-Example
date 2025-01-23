@@ -86,6 +86,3 @@ Implement search functionality to filter users.
 
 Add user detail screens for more comprehensive information.
 
-License
-
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
