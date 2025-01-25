@@ -72,17 +72,4 @@ Setup and Configuration
 
 GitHub API: The app uses the GitHub public API. No authentication is required.
 
-Dependencies: All required dependencies are listed in the build.gradle file.
-
-Screenshots
-
-Include screenshots of the app showcasing both Light and Dark Mode, online and offline states, and other features.
-
-Future Enhancements
-
-Add pagination for GitHub user lists.
-
-Implement search functionality to filter users.
-
-Add user detail screens for more comprehensive information.
 
