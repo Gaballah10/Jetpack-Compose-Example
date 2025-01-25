@@ -70,6 +70,6 @@ Run the app on an emulator or a physical device.
 
 Setup and Configuration
 
-GitHub API: The app uses the GitHub public API. No authentication is required.
+GitHub API: The app uses the GitHub public API.
 
 
